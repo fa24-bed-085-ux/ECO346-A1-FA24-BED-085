@@ -19,6 +19,3 @@ This project analyzes annual earnings by age using PSLM data. The analysis inclu
 - Google Colab
 ## Sample
 The analysis focuses on urban earners in Khyber Pakhtunkhwa, aged 15–64, with positive annual earnings.
-
-## Sample
-The analysis focuses on urban earners in Khyber Pakhtunkhwa, aged 15–64, with positive annual earnings.
